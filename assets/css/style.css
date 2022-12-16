@@ -55,7 +55,8 @@ a {
     background-position: center;
 }
 
-/* Section */
+/* Main Content Section */
+/* Section 1 */
 .content {
     width: 75%;
     display: inline-block;
@@ -90,7 +91,7 @@ a {
     margin-left: 25px;
 }
 
-/* Aside */
+/* Section 2 */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,7 +119,7 @@ a {
     max-width: 150px;
 }
 
-/* Common Elements in "Section" and "Aside" */
+/* Common Elements in "Section 1" and "Section 2" */
 p {
     font-size: 16px;
 }
