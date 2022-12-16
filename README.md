@@ -37,3 +37,7 @@ THEN I find a concise, descriptive title
 ```
 ** "User Story" & "Acceptance Criteria" listed above have been provided by the UTA Bootcamp Program 2022. **
 ----------------------------------------------------------------------
+
+Deployment URL: https://khevb27.github.io/UTA-Bootcamp-Challenge1/
+
+GitHub Repository URL: https://github.com/khevb27/UTA-Bootcamp-Challenge1
